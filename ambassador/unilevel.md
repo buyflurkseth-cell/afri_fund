@@ -1,17 +1,8 @@
 # Unilevel Reward System
 
-Earn on **every purchase down your team line** — no matter how deep.
-
-| Level | Commission |
-| --- | --- |
-| Level 1 (direct) | 20% |
-| Level 2 | 5% |
-| Level 3 | 3% |
-| Level 4 | 2% |
-| Level 5 and deeper | 1% |
-
-**Example:** You invite A. A invites B. B buys 0.033 SOL → 1,320 AFR.
-A gets 20% = **264 AFR**, you get 5% = **66 AFR**. With 100 buyers in Level 3:
-`100 × 1,320 × 3% = 3,960 AFR`.
+Earn on **every purchase down your team line**, no matter how deep — 20% on direct
+referrals (Level 1), 5% on Level 2, 3% on Level 3, 2% on Level 4, and 1% on
+Level 5 and beyond. As your team grows wider and deeper, commissions accumulate
+across every level below you.
 
 ![Unilevel Reward System](../AfriFUND_06_UnilevelSystem.png)

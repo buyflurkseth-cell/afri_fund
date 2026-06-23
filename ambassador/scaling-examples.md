@@ -1,10 +1,8 @@
 # Scaling Examples
 
-| Investment | Investor receives | You receive |
-| --- | --- | --- |
-| 0.033 SOL ($5) | 1,320 AFR | 264 AFR |
-| 0.1 SOL (~$15) | 4,000 AFR | 800 AFR |
-| 0.33 SOL (~$50) | 13,200 AFR | 2,640 AFR |
-| 1 SOL (~$150) | 40,000 AFR | 8,000 AFR |
+The 20% commission scales with the size of each referral's investment — the more
+your referral invests, the more AFR you earn. The examples below use the Stage 5
+rate (1 SOL = 40,000 AFR), so promoting higher-value participation directly
+increases your rewards.
 
 ![Scaling Examples](../AfriFUND_05_ScalingExamples.png)
